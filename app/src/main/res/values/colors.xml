@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGreen">#0cd608</color>
+    <color name="colorRed">#e90505</color>
+    <color name="ColorTransparent">#80000000</color>
+    <color name="bg_nav_bottom_menu">#ff0597</color>
+    <color name="text_color_nav_bottom_menu">#ffffff</color>
+    <color name="icon_color_nav_bottom_menu">#ffffff</color>
+</resources>
